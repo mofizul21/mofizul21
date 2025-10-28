@@ -3,19 +3,35 @@
 I'm **Mofizul Islam**, a passionate **WordPress Developer** from Bangladesh with over 10 years of experience in building, customizing, and optimizing WordPress websites and plugins.  
 
 ### 💻 What I Do
-Expert in **PHP**, **JavaScript**, and **WordPress** since 2015 — specializing in **plugin** and **Gutenberg block development**, **CI/CD pipelines**, **unit testing**, **database optimization**, **REST API development**, and **WordPress security hardening**.  
-I’m also a **WooCommerce specialist**, building advanced eCommerce functionality and scalable custom solutions.  
-Proficient with **Git/GitHub**, **Gulp**, **Webpack**, and **Composer**, ensuring efficient development and deployment workflows.
+- Expert in **PHP**, **JavaScript**, and **WordPress** (since 2015)  
+- Specialized in **plugin** and **Gutenberg block development**  
+- Experienced in **CI/CD pipelines** and **unit testing**  
+- Skilled in **database optimization** and **REST API development**  
+- Focused on **WordPress security hardening** and performance improvement  
+- **WooCommerce specialist** — building custom eCommerce functionality  
+- Proficient with **Git/GitHub**, **Gulp**, **Webpack**, and **Composer**
 
 ### 🌱 Currently Learning
-Exploring **modern PHP practices**, **headless WordPress** using React, and **AI integration in WordPress** — such as automating content workflows, personalized recommendations, and data-driven site optimization.  
-Also gaining interest in **machine learning** and **data science concepts** to apply in future WordPress projects.
+- **Modern PHP practices** and clean architecture  
+- **Headless WordPress** using React  
+- **AI integration in WordPress** for automation and personalization  
+- **Machine learning** and **data science concepts** for data-driven site insights  
+- Future trends in **WordPress ecosystem**, including AI-powered SEO and content tools
 
 ### 🤝 Looking to Collaborate On
-Open-source WordPress projects or any plugin development that improves developer workflow or site performance.
+- **Open-source WordPress and WooCommerce projects** that improve performance, security, or developer workflow  
+- **Custom plugin and theme development** with modern PHP and JavaScript frameworks  
+- **API-driven WordPress integrations** with React, Vue.js, or Laravel backends  
+- **Automation tools** for content management, deployment, or site analytics  
+- **AI-assisted WordPress solutions**, such as intelligent content recommendations and auto-optimization features  
 
 ### 💬 Ask Me About
-WordPress plugin development, performance tuning, or best coding practices in WordPress.
+- **Advanced WordPress development**, plugin architecture, and custom REST APIs  
+- **WooCommerce customization** — from coupon logic to advanced product management  
+- **Performance tuning and database optimization** for high-traffic websites  
+- **CI/CD setup**, GitHub Actions, and scalable deployment workflows  
+- **Security best practices** to prevent XSS, SQL injection, and unauthorized access  
+- **Modern PHP & JavaScript practices**, Gutenberg block development, or headless WordPress setups  
 
 ### 🌟 Featured Projects:
 - [Review Discount for WooCommerce](https://codecanyon.net/item/review-discount-for-woocommerce/59448804) — A premium plugin for managing review-based discounts on WooCommerce stores.  
