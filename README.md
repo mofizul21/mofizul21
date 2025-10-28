@@ -3,13 +3,13 @@
 I'm **Mofizul Islam**, a passionate **WordPress Developer** from Bangladesh with over 10 years of experience in building, customizing, and optimizing WordPress websites and plugins.  
 
 ### 💻 What I Do
-- Develop and maintain **custom WordPress plugins** and **themes**  
-- Work with **REST API**, **AJAX**, and modern JavaScript frameworks  
-- Optimize site performance, security, and scalability  
-- Implement **CI/CD pipelines** and follow **WordPress Coding Standards (WPCS)**  
+Expert in **PHP**, **JavaScript**, and **WordPress** since 2015 — specializing in **plugin** and **Gutenberg block development**, **CI/CD pipelines**, **unit testing**, **database optimization**, **REST API development**, and **WordPress security hardening**.  
+I’m also a **WooCommerce specialist**, building advanced eCommerce functionality and scalable custom solutions.  
+Proficient with **Git/GitHub**, **Gulp**, **Webpack**, and **Composer**, ensuring efficient development and deployment workflows.
 
 ### 🌱 Currently Learning
-Exploring **modern PHP practices**, **Gutenberg block development**, and **headless WordPress** using React.
+Exploring **modern PHP practices**, **headless WordPress** using React, and **AI integration in WordPress** — such as automating content workflows, personalized recommendations, and data-driven site optimization.  
+Also gaining interest in **machine learning** and **data science concepts** to apply in future WordPress projects.
 
 ### 🤝 Looking to Collaborate On
 Open-source WordPress projects or any plugin development that improves developer workflow or site performance.
@@ -29,15 +29,8 @@ WordPress plugin development, performance tuning, or best coding practices in Wo
   </a>
 </p>
 
-**A-**  
-**Total Stars Earned:** 84  
-**Total Commits (last year):** 366  
-**Total PRs:** 586  
-**Total Issues:** 19  
-**Contributed to (last year):** 1  
-
 ### 📫 How to Reach Me
-- Email: **mofizul21@gmail.com**
+- Email: mofizul21@gmail.com
 - Personal site: [mofizul.com](https://mofizul.com)
 - LinkedIn: [linkedin.com/in/mofizul21](https://www.linkedin.com/in/mofizul21)  
 - WordPress.org: [profiles.wordpress.org/mofizul](https://profiles.wordpress.org/mofizul)
