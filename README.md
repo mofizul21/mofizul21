@@ -1,42 +1,51 @@
-## Hi there 👋
+## Hi there
 
-I'm **Mofizul Islam**, a passionate **WordPress Developer** from Bangladesh with over 10 years of experience in building, customizing, and optimizing WordPress websites and plugins.  
+I'm **Mofizul Islam**, a **Software Engineer** from Bangladesh with **14+ years of experience** in building scalable, secure, and user-focused web and mobile applications. I work across the full stack, combining backend architecture, frontend development, and modern tools to deliver reliable digital solutions.
 
-### 💻 What I Do
-- Expert in **PHP**, **JavaScript**, and **WordPress** (since 2015)  
-- Specialized in **plugin** and **Gutenberg block development**  
-- Experienced in **CI/CD pipelines** and **unit testing**  
-- Skilled in **database optimization** and **REST API development**  
-- Focused on **WordPress security hardening** and performance improvement  
-- **WooCommerce specialist** — building custom eCommerce functionality  
-- Proficient with **Git/GitHub**, **Gulp**, **Webpack**, and **Composer**
+### What I Do
+- Build backend systems using **PHP** and **Laravel**
+- Develop and customize **WordPress** websites, plugins, and themes
+- Create modern frontend applications with **React.js**
+- Develop cross-platform mobile apps using **Flutter**
+- Design and integrate **REST APIs** for web and mobile applications
+- Optimize databases and improve application performance
+- Apply security best practices across applications and CMS platforms
+- Collaborate with teams using **Git/GitHub** and CI/CD workflows
 
-### 🌱 Currently Learning
-- **Modern PHP practices** and clean architecture  
-- **Headless WordPress** using React  
-- **AI integration in WordPress** for automation and personalization  
-- **Machine learning** and **data science concepts** for data-driven site insights  
-- Future trends in **WordPress ecosystem**, including AI-powered SEO and content tools
+### Core Skills & Technologies
+- **Backend:** PHP, Laravel, WordPress, REST APIs  
+- **Frontend:** JavaScript, React.js, Gutenberg Blocks  
+- **Mobile:** Flutter  
+- **Databases:** MySQL, performance tuning and optimization  
+- **DevOps & Tools:** Git, GitHub Actions, CI/CD, Composer, Webpack, Gulp  
+- **Other:** Firebase integration, API authentication, security hardening
 
-### 🤝 Looking to Collaborate On
-- **Open-source WordPress and WooCommerce projects** that improve performance, security, or developer workflow  
-- **Custom plugin and theme development** with modern PHP and JavaScript frameworks  
-- **API-driven WordPress integrations** with React, Vue.js, or Laravel backends  
-- **Automation tools** for content management, deployment, or site analytics  
-- **AI-assisted WordPress solutions**, such as intelligent content recommendations and auto-optimization features  
+### Currently Learning
+- Advanced **Laravel architecture** and scalable backend patterns
+- **Headless WordPress** with React
+- **AI integration** for web and CMS-based applications
+- Improving system design and performance for high-traffic platforms
 
-### 💬 Ask Me About
-- **Advanced WordPress development**, plugin architecture, and custom REST APIs  
-- **WooCommerce customization** — from coupon logic to advanced product management  
-- **Performance tuning and database optimization** for high-traffic websites  
-- **CI/CD setup**, GitHub Actions, and scalable deployment workflows  
-- **Security best practices** to prevent XSS, SQL injection, and unauthorized access  
-- **Modern PHP & JavaScript practices**, Gutenberg block development, or headless WordPress setups  
+### Open to Collaborate On
+- Full-stack web applications using **Laravel and React**
+- **WordPress** plugin, theme, and headless CMS projects
+- **API-driven** platforms and third-party integrations
+- Mobile applications built with **Flutter**
+- Performance optimization and refactoring of existing systems
+
+### Ask Me About
+- Laravel and PHP backend development
+- WordPress plugin architecture and customization
+- REST API design and integration
+- React-based frontend development
+- Flutter app development
+- Performance optimization and security best practices
 
 ### 🌟 Featured Projects:
+- [Librisys](https://github.com/mofizul21/librisys) — A simple library management system built with Flutter and Firebase.
 - [Review Discount for WooCommerce](https://codecanyon.net/item/review-discount-for-woocommerce/59448804) — A premium plugin for managing review-based discounts on WooCommerce stores.  
 - [Word Counter Plus](https://wordpress.org/plugins/word-counter-plus/) — A WordPress plugin that counts words and characters with ease.  
-- [Wine Vendor WooCommerce](https://github.com/mofizul21/wine-vendor-woocommerce) — Custom WooCommerce plugin for managing wine products and vendor features.  
+- [Category Products Slider for WooCommerce](https://wordpress.org/plugins/category-products-slider-for-woocommerce/) — Custom WooCommerce plugin for displaying category-based products.  
 
 ### 📈 GitHub Stats:
 <p dir="auto">
